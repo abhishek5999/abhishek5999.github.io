@@ -9,13 +9,7 @@ A technology and programming enthusiast.
     * Python 3
     * C Programming 
     * SQL
-    
-    
-    
-    
-    
-    
-    
+        
 *  ### IDE
     * Visual Studio
     * OracleSQL
@@ -29,4 +23,6 @@ A technology and programming enthusiast.
 
 ## Contact
 
-#### You can contact me through [Email](mailto:abhishekchatterjee59@protonmail.com) 
+You can contact me through [Email](mailto:abhishekchatterjee59@protonmail.com) 
+
+->center<-
