@@ -9,8 +9,7 @@ A technology and programming enthusiast.
     * Python 3
     * C Programming 
     * SQL
-    
-----
+
 
 *  ### IDE
     * Visual Studio
