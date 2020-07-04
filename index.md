@@ -9,7 +9,7 @@ A technology and programming enthusiast.
     * Python 3
     * C Programming 
     * SQL
-# 
+#
 *  ### IDE
     * Visual Studio
     * OracleSQL
@@ -19,7 +19,7 @@ A technology and programming enthusiast.
 # 
 *  ### Other Skills
     * Basic Video Editing
-    * Digital Marketing					
+    * Digital Marketing									
 
 ## Contact
 
