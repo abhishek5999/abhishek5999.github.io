@@ -6,10 +6,10 @@ A technology and programming enthusiast.
 
 ## Skills
 
-  ### Programming
-    Python 3
-    C Programming 
-    SQL
+	### Programming
+		Python 3
+		C Programming 
+		SQL
   ### IDE
     Visual Studio
     OracleSQL
