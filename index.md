@@ -5,19 +5,19 @@ A technology and programming enthusiast.
 
 
 ## Skills
-  ### Programming 
+*  ### Programming 
     * Python 3
     * C Programming 
     * SQL
-  ### IDE
-    Visual Studio
-    OracleSQL
-    PyCharm
-    Sublime Text
-    DB Browser (SQLite)
-   ### Other Skills
-    Basic Video Editing
-    Digital Marketing
+*  ### IDE
+    * Visual Studio
+    * OracleSQL
+    * PyCharm
+    * Sublime Text
+    * DB Browser (SQLite)
+*  ### Other Skills
+    * Basic Video Editing
+    * Digital Marketing					
 
 ## Contact
 
