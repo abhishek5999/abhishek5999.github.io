@@ -9,12 +9,14 @@ A technology and programming enthusiast.
     * Python 3
     * C Programming 
     * SQL
+# 
 *  ### IDE
     * Visual Studio
     * OracleSQL
     * PyCharm
     * Sublime Text
     * DB Browser (SQLite)
+# 
 *  ### Other Skills
     * Basic Video Editing
     * Digital Marketing					
