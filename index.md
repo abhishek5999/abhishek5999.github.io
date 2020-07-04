@@ -25,4 +25,4 @@ A technology and programming enthusiast.
 
 You can contact me through [Email](mailto:abhishekchatterjee59@protonmail.com) 
 
-<div align="center">center</div>
+<div align="center" class="header"><h3>Connect with me</h3></div>
