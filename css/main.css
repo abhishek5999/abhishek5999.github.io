@@ -20,7 +20,10 @@
 
     .topnav {
     overflow: hidden;
-    background-color: transparent;
+    background: linear-gradient(to right, #155997 0%, #158f61 100%);
+    position: fixed; 
+    top: 0; 
+    width: 100%;
     }
 
     .topnav a {
